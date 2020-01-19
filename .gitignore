@@ -1,0 +1,11 @@
+# Packages
+node_modules/
+
+# Distribution directories
+dist/
+
+# Editor
+.vscode/
+
+#Others
+.DS_Store
